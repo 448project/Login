@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\Login\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_flex_better.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\Login\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_flex_better.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\Login\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_flex.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\Login\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_flex.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\Login\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\Login\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    }
+]
